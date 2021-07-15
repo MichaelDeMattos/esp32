@@ -1,0 +1,5 @@
+{
+    "network": "<network-name>",
+    "password": "<password-network>",
+    "ws": "<password-socket-webrepl>"
+}
